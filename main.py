@@ -24,7 +24,7 @@ st.set_page_config(
 )
 st.title('Finance Prediction')
 st.write('Nurul Faizah (200411100174)')
-st.write('Triasmi Dwi Farawati (200411100174)')
+st.write('Triasmi Dwi Farawati (200411100186)')
 tab1, tab2, tab3, tab4 = st.tabs(["Dataset", "Prepocessing","Modelling","Implementation"])
 
 with tab1:
